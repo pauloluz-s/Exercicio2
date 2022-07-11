@@ -1,0 +1,16 @@
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.exe
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.deps.json
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.json
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.dev.json
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.dll
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\bin\Debug\net5.0\ref\Exercicio2.dll
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.pdb
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfo.cs
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.dll
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\obj\Debug\net5.0\ref\Exercicio2.dll
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.pdb
+C:\Users\I309843\Downloads\TESTE\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.genruntimeconfig.cache
